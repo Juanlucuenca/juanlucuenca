@@ -16,5 +16,4 @@ Hello everyone, I am xanax and I am 17 years old, I am currently studying the te
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Bootrstrap 5" width="29px" src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" />
-<img align="left" alt="Python" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 
