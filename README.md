@@ -6,7 +6,7 @@ Hello everyone, I am xanax and I am 17 years old, I am currently studying the te
 
 - 🎨 `front-end` developer from Argentina
 - 📖 I’m currently learning `React.js, Angular.js, SASS` and `PHP`
-- ❓  You can ask me about `FiveM` and `Web Development`
+- ❓  You can ask me about `FiveM` and `Web Design`
 - 💌 You can reach out to me on Discord: `xaηax#6666`
 
 <h3>💻 Tech & Tools</h3>
