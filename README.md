@@ -5,7 +5,7 @@ Hello everyone, I am xanax and I am 17 years old, I am currently studying the te
 <h3>👨‍💻 About Me</h3>
 
 - 🎨 `front-end` developer from Argentina
-- 📖 I’m currently learning `React.js` <img align="middle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>
+- 📖 I’m currently learning `React.js`
 - 💌 You can reach out to me on Discord: `xaηax#6666`
 
 <h3>💻 Tech & Tools</h3>
