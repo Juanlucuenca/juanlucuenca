@@ -1,6 +1,6 @@
 <h2>hey, i'm xanax 🖤</h2>
 
-Hello everyone, I am xanax and I am 17 years old, I am currently studying the technical degree in __computer science__ and __technologies around full-stack web development__, 5 months ago I started with all this and I like it more and more :)
+Hello everyone, I am xanax and I am 18 years old, I am currently studying the technical degree in __computer science__ and __technologies around full-stack web development__, 5 months ago I started with all this and I like it more and more :)
 
 <h3>👨‍💻 About Me</h3>
 
