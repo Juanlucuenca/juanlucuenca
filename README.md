@@ -5,7 +5,7 @@ Hello everyone, I am xanax and I am 18 years old, I am currently studying the te
 <h3>👨‍💻 About Me</h3>
 
 - 🎨 `front-end` developer from Argentina
-- 📖 I’m currently learning `PHP`
+- 📖 I’m currently learning `JavaScript`
 - ❓  You can ask me about `FiveM` and `Web Design`
 - 💌 You can reach out to me on Discord or: `xaηax#6666`
 
