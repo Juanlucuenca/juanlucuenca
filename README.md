@@ -1,4 +1,4 @@
-<h2>hey, i'm xanax 🖤</h2>
+<h2>hey, i'm Juan Lucas 🖤</h2>
 
 Hello everyone, I am xanax and I am 18 years old, I am currently studying the technical degree in __computer science__ and __technologies around full-stack web development__, 1 year ago I started with all this and I like it more and more :)
 
