@@ -10,6 +10,8 @@ Hello everyone, I am xanax and I am 18 years old, I am currently studying the te
 - 📖 I’m currently learning `JavaScript`
 - ❓  You can ask me about ` Responsive Web Design`
 
+ </br> </br>
+
 <h3>💌 Contact With Me<h3/>
 <a  href = "https://www.linkedin.com/in/juan-lucas-cuenca-a6a216240/"> <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
   
