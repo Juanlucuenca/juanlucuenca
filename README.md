@@ -11,8 +11,11 @@ Hello everyone, I am xanax and I am 18 years old, I am currently studying the te
 
 <h3>💻 Tech & Tools</h3>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="HTML5" width="26px" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
+<img align="left" alt="CSS3" width="26px" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
 <img align="left" alt="JS" width="26px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
+<img align="left" alt="JS" width="26px" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
+<img align="left" alt="JS" width="26px" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" />
+<img align="left" alt="JS" width="26px" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor" />
+<img align="left" alt="JS" width="26px" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
 
