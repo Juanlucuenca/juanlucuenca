@@ -1,14 +1,14 @@
 <h2>hey, i'm Juan Lucas 🖤</h2>
 
-Hi everyone, I am xanax and I am 19 years old, I am currently studying a technical degree in __computer science__ and __technologies around full-stack web development__, 1 year ago I started with all this and every day I like it even more :)
+I am a student of programming at the Universidad Austral and a computer technician already graduated. I've been working in the web development field for more than three years. Having experience as a freelancer in fiverr using technologies such as .Lua for scripting and HTML, CSS, JS for the development of interfaces.
 
  </br>
 
 <h3>👨‍💻 About Me</h3>
 
-- 🎨 `front-end` developer from Argentina
-- 📖 I’m currently learning `JavaScript`
-- ❓  You can ask me about ` Responsive Web Design`
+- 🎨 `Fullstack` developer from Argentina
+- 📖 I’m currently learning `.NET & Angular`
+- ❓  You can ask me about `Fullstack Web development`
 
  </br>
 
@@ -27,4 +27,6 @@ Hi everyone, I am xanax and I am 19 years old, I am currently studying a technic
 <img align="left" alt="JS" width="26px" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" />
 <img align="left" alt="JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
 <img align="left" alt="JS" width="26px" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
-
+<img align="left" alt="JS" width="26px" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" />
+<img align="left" alt="JS" width="26px" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" />
+<img align="left" alt="JS" width="26px" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor" />
